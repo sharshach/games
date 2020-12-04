@@ -1,0 +1,12 @@
+.snake-canvas{
+    background-color:#eeeeee;
+    border: 10px solid black;
+}
+body{
+    background-color: #333333;
+}
+.canvasDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
