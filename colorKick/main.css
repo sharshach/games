@@ -1,0 +1,12 @@
+body{
+    background-color: #333333;
+}
+.box{
+    width:100px;
+    height:100px;
+}
+.score-box{
+    font-size: 32px;
+    background-color: #222222;
+    color:white;
+}
